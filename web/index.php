@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html>
   <head>
-    <title>Baddress - worst address book</title>
+    <title>Baddress - worst address book in the world</title>
     <style type="text/css">
       body { font: sans-serif; }
     </style>
